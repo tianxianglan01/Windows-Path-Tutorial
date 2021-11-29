@@ -8,4 +8,6 @@
 
 Or just use Chocolately.
 
+- Don't forget to open a new powershell/commandline to access your install app through the path.
+
 Tutorial found here: https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
